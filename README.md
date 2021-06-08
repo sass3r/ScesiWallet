@@ -1,4 +1,4 @@
-# BananaWallet
+# ScesiWallet
 Installing MultiChain on Linux
 
 - su (enter root password)
